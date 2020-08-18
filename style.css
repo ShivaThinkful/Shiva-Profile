@@ -71,4 +71,6 @@ hr
 {
   margin: 70px 50px;
   color: aliceblue;
+  height: 3px;
+  background-color: aliceblue;
 }
