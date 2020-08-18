@@ -1,7 +1,9 @@
+
+/* definition of some classes */
 .body
 {
   background-color:rgb(95, 7, 7);
-  Margin-right:0px;
+  margin-right : 0px;
 }
 .head
 {color:aliceblue;
@@ -13,9 +15,11 @@ padding :  30px 100px 30px 100px;
 .h1
 {font-size:40px;
 }
+
 .h2
 {font-size :25px;
 }
+
 .h3
 {font-size :18px;
 }
@@ -32,11 +36,7 @@ padding :  30px 100px 30px 100px;
  border :  30px 100px;
  border-color:black;
 }
-li
-{
-  list-style-position: inside;
-  text-align:left;
-}
+
 .left
 {
 text-align:left; 
@@ -47,11 +47,7 @@ padding-right: 50px;
 .color{
   color:rgba(238, 137, 54, 0.76);
 }
-hr
-{
-  margin: 70px 50px;
-  color: aliceblue;
-}
+
 .footer
 {
 font-size:12px;
@@ -61,4 +57,18 @@ background-color:rgb(218, 47, 62);
 text-align:center;
 margin-top : 50px;
 padding :  10px 20px 10px 20px;
+}
+
+/* The list */
+li
+{
+  list-style-position: inside;
+  text-align:left;
+}
+
+/* The line*/
+hr
+{
+  margin: 70px 50px;
+  color: aliceblue;
 }
